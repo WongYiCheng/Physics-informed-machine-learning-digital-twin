@@ -1,4 +1,4 @@
-Digital Tin Automation
+Digital Twin Automation
 
 There are total of 3 module known as daq_system, feature_extractor, and ansys_twin_updated.
 
