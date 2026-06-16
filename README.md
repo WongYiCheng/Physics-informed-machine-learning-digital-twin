@@ -1,4 +1,4 @@
-<img width="707" height="715" alt="image" src="https://github.com/user-attachments/assets/2478b977-216e-4a22-92c2-f3141fa72eff" />Digital Twin Automation
+Digital Twin Automation
 
 There are total of 3 module known as daq_system, feature_extractor, and ansys_twin_updated.
 
